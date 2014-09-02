@@ -1,0 +1,5 @@
+*{margin:0;padding: 0}
+body{padding: 5px;font-family: 'Lucida Sans Unicode',sans-serif;background: #EFEFEF;}
+ul{list-style: none;}
+ul li{white-space: nowrap;}
+.name{color: red;font-weight: bold;}

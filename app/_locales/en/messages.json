@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "cookieSee",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "just view your cookie and storage stuff",
+    "description": "The description of the application"
+  }
+}
